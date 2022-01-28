@@ -1,10 +1,10 @@
 # 3. Hafta Ödev
 
 Veritabanı
-- *sp_student_education : Öğrencinin aldığı eğitimi,eğitmenini ve başarı durumunu gözükür.
-- *sp_assistant_education : Hangi asistanın hangi eğitimde görevli olduğunu gözükür.
+- *sp_student_education : Öğrencinin aldığı eğitimi,eğitmenini ve başarı durumu görünür.
+- *sp_assistant_education : Hangi asistanın hangi eğitimde görevli olduğu görünür.
 - *sp_participant_education : Katılımcının bulunduğu eğitimleri gösterir.
-- *sp_student_attendance : Öğrencinin yoklama durumu gözükür.
+- *sp_student_attendance : Öğrencinin yoklama durumu görünür.
 - *sp_education_add_student : Mevcut bir öğrenciyi bir eğiteme atar.(Öğrencinin başka bir eğitim almaması şartı ile).Ek olarak yoklama listesi ve başarı id oluşturur.(3.Maddeyi karşılıyor.)
 - *sp_new_student_add : Yeni bir öğrenci ekler.(Aynı id'ye sahip öğrenci varsa eklemez ve mesaj verir.)
 - *sp_new_teacher_add : Yeni bir eğitmen ekler.(Aynı id'ye sahip öğrenci varsa eklemez ve mesaj verir.)
